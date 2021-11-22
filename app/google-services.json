@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705942118052",
+    "project_id": "quack-b4c16",
+    "storage_bucket": "quack-b4c16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705942118052:android:71a2ba2e4d75c5cd66d031",
+        "android_client_info": {
+          "package_name": "com.example.quack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705942118052-g562t2vgkqqj38dudr2ma75an9t29t3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcQBtyHRBuFqA3rabP0mRPMjLKKai1HCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705942118052-g562t2vgkqqj38dudr2ma75an9t29t3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
